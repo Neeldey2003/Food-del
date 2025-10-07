@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
-
 *{
   margin: 0;
   padding: 0;
@@ -20,5 +19,4 @@ a{
 @keyframes fadeIn{
   0%{opacity: 0;}
   100%{opacity: 1;}
-
 }
