@@ -1,7 +1,7 @@
 import React from 'react';
 import './FoodItem.css';
 import { assets } from '../../assets/assets';
-
+/* eslint-disable no-unused-vars */
 const FoodItem = ({ id, name, price, description, image }) => {
   return (
     <div className="food-item">
